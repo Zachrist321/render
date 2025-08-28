@@ -1,0 +1,11 @@
+build/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store/
+.ipynb_checkpoints/
+freeze.py
+
